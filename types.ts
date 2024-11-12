@@ -1,0 +1,1 @@
+export type UserRating = Map<string, { rating: number; rank?: number; }>;
