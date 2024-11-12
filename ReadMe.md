@@ -11,8 +11,8 @@ This project calculates the similarity between users based on their movie rating
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/mohdkassar/spearman-rank.git
+    cd spearman-rank
     ```
 
 2. Install the dependencies:
