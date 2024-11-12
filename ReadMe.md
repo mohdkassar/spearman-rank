@@ -35,7 +35,7 @@ An example file is provided `sample_data.csv`
 
 1. Run the script:
     ```sh
-    npx ts-node index.ts
+    npm run start
     ```
 
 2. The output CSV file will be generated in the location specified by the `OUTPUT_FILE_PATH` environment variable.
